@@ -90,6 +90,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=HusnainNasir&show_icons=true&locale=en&layout=compact" alt="HusnainNasir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HusnainNasir&show_icons=true&locale=en" alt="HusnainNasir" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=HusnainNasir-Crowdbotics&show_icons=true&locale=en" alt="HusnainNasir" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainNasir&" alt="HusnainNasir" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainNasir-Crowdbotics&" alt="HusnainNasir" /></p>

@@ -3,7 +3,7 @@
 
 ## About Me:
 
-- 👨‍💻 I'm a Senior Software Engineer at Tkxel with a strong passion for developing scalable and user-friendly applications.
+- 👨‍💻 I'm a Senior Software Engineer with a strong passion for developing scalable and user-friendly applications.
 - 🧠 I use daily: `.js`, `.ts`, `.node`, `.react`, `.mongo`
 - 📚 Currently exploring the intersection of AI and mobile development.
 - 🏆 Delivered 3 MVPs within a 9-month timeframe and contributed to projects.
